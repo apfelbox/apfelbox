@@ -1,8 +1,4 @@
 # Hej 👋 🥑
 
-I'm Jannik and I am the Technical Director Web for 21TORR.
+I'm Jannik and I am the Head of Web at 21TORR.
 
-
----
-
-(That's Anna Fisher in the profile picture)
